@@ -1,0 +1,6 @@
+theme: minima  # Optional: use a default theme like minima
+defaults:
+  - scope:
+      path: ""  # Applies to all files
+    values:
+      layout: default
