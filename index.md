@@ -9,4 +9,10 @@ $$
 \int_{a}^{b} f(x) \, dx 
 $$
 
-Hey det her er en test
+
+$$
+\Delta y := \Delta L \cdot  sin(\alpha)
+$$
+$$
+ \Delta x := \Delta L \cdot  cos(\alpha)
+$$
